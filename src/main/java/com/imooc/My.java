@@ -5,4 +5,5 @@ package com.imooc;
  */
 public class My {
     private String name;
+    private String sex;
 }
